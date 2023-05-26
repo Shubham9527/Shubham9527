@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shubhamnikam.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -41,8 +41,8 @@
 
 <img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubham9527&show_icons=true&hide_border=true" />
 
-[website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CodersGyan
-[facebook]: https://www.facebook.com/codersgyan
-[youtube]: https://www.youtube.com/c/codersgyan
-[instagram]: https://www.instagram.com/codersgyan
+[website]: https://shubhamnikam.vercel.app/
+[twitter]: https://twitter.com/Shubham_Nikam45
+[facebook]: https://shubhamnikam.vercel.app/
+[youtube]: https://shubhamnikam.vercel.app/
+[instagram]: https://www.instagram.com/nikam_shubham29
