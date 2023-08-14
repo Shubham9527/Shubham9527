@@ -3,7 +3,6 @@
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
 - 🔭 I build projects in free time 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
 
