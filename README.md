@@ -14,6 +14,18 @@
 
 <br />
 
+## 🔥 Contributions:
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shubham9527&&show_icons=true&theme=dark)](https://git.io/streak-stats)
+
+## ✨ Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham9527&show_icons=true&theme=radical)
+
+
+## Languages
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham9527&layout=compact&theme=buefy&hide_border=true&hide_progress=true) />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,8 +49,6 @@
 <br />
 
 ---
-
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shubham9527&show_icons=true&hide_border=true" />
 
 [website]: https://shubhamnikam.vercel.app/
 [twitter]: https://twitter.com/Shubham_Nikam45
