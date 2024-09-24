@@ -3,6 +3,7 @@
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
 - 🔭 I build projects in free time 
 - 🌱 I’m currently learning everything 🤣
+- 📫 How to reach me: [nikamshubham9527@gmail.com](mailto:nikamshubham9527@gmail.com) & [LinkedIn@ShubhamNikam]([https://twitter.com/Suhaasya](https://www.linkedin.com/in/nikam-shubham-p/))
 
 ### Connect with me:
 
